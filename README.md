@@ -310,5 +310,11 @@ This project demonstrates strong expertise in:
 * Data Visualization
 * Analytical Thinking
 
+  # 📸 Dashboard Preview
+
+An interactive Power BI dashboard designed to analyze sales performance, customer behavior, profitability, product trends, and regional business insights using the Adventure Works dataset.
+
+<img width="1000" alt="Adventure Works Dashboard" src="https://github.com/Anjali2718/Adventure-Works-Final-Report-Dashboard/blob/main/Adventure%20Works%20Final%20Report%20Screenshot.png">
+
 It serves as a complete end-to-end BI solution for monitoring organizational performance, identifying growth opportunities, and supporting strategic business decision-making.
 the dashboard look like - https://github.com/Anjali2718/Adventure-Works-Final-Report-Dashboard/blob/main/Adventure%20Works%20Final%20Report%20Screenshot.png
