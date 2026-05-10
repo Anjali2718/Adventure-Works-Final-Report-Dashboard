@@ -311,3 +311,4 @@ This project demonstrates strong expertise in:
 * Analytical Thinking
 
 It serves as a complete end-to-end BI solution for monitoring organizational performance, identifying growth opportunities, and supporting strategic business decision-making.
+the dashboard look like - https://github.com/Anjali2718/Adventure-Works-Final-Report-Dashboard/blob/main/Adventure%20Works%20Final%20Report%20Screenshot.png
